@@ -1,0 +1,1 @@
+gcc -rdynamic -o prog2r dll.c -ldl

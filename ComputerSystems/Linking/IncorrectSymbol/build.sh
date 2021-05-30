@@ -1,0 +1,1 @@
+gcc -Wall -Og -o foobar foo.c bar.c
